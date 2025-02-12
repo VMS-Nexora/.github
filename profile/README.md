@@ -36,8 +36,7 @@ Explore some of our exciting projects:
 
 ---
 
-## Join Us! 🤝
-We’re always looking for talented individuals to join our mission. Whether you’re an information systems expert, developer, or designer, we’d love to hear from you! Check out our [Careers Page](#) for open opportunities.
+
 
 ---
 
