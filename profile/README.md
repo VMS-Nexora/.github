@@ -36,17 +36,8 @@ Explore some of our exciting projects:
 
 ---
 
-
-
 ---
 
-## Get in Touch 📬
-Have questions or want to learn more? Reach out to us:
-- **Email**: 
-- **Website**: [](#) 
-- **GitHub**: [](#)
-
----
 
 ## Let’s Build the Future Together 🌍
 At **[VMS] - Nexora**, we believe in the power of intelligent systems to create safer, smarter, and more connected spaces. Join us on this journey to redefine visitor management!
