@@ -1,4 +1,4 @@
-# Welcome to **Nexora - [VMS]** 🚀
+# Welcome to **Nexora - Solutions** 🚀
 **A fusion of "Nexus" (connection) and "Aura" (presence), representing the interconnectedness of AI and visitor flow**
 
 **Transforming Visitor Management with Intelligent Systems**
